@@ -2,6 +2,7 @@
 *~
 __pycache__
 myvenv
+/static
 db.sqlite3
 .DS_Store
 local_settings.py
