@@ -28,6 +28,7 @@ $(function() {
 		});
 
 	// Poptrox.
+	/*
 		$window.on('load', function() {
 
 			$('.thumbnails').poptrox({
@@ -46,4 +47,5 @@ $(function() {
 
 		});
 
+		*/
 });
